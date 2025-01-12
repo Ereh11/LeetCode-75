@@ -19,9 +19,14 @@ The **LeetCode 75 Study Plan** is designed to help developers master fundamental
 
 | No | Problem Link | Difficulty | Topic |
 |-----|--------------|------------|-------|
-| 1   | [Problem 1](#) | Easy       | Arrays |
-| 2   | [Problem 2](#) | Medium     | Strings |
-| ... | ...          | ...        | ...   |
+| 1   | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) | Easy       | Strings |
+| 2   | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75) | Easy     | Strings |
+| 3  | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75) | Easy     | Arrays |
+| 4   | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75) | Easy     | Arrays |
+| 5   | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=study-plan-v2&envId=leetcode-75) | Easy     | Strings |
+| 6   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75) | Medium     | Strings |
+| 7   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75) | Medium     | Arrays |
+| 8   | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) | Medium     | Arrays |
 
 > **Note:** The solutions are written in C++.
 
