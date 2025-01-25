@@ -27,6 +27,7 @@ The **LeetCode 75 Study Plan** is designed to help developers master fundamental
 | 6   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75) | Medium     | Strings |
 | 7   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75) | Medium     | Arrays |
 | 8   | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) | Medium     | Arrays |
+| 9   | [String Compression](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)| Strings |
 
 > **Note:** The solutions are written in C++.
 
